@@ -32,6 +32,7 @@ Every solution here is synced automatically using **LeetSync**, making this repo
 
 </p>
 
+
 ---
 
 ## 🔍 What is LeetSync?

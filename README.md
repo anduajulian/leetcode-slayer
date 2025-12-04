@@ -7,30 +7,39 @@ Every solution here is synced automatically using **LeetSync**, making this repo
 
 ## 📊 Stats & Badges
 
-<p align="left">
+<div align="center">
 
-  <!-- GitHub Streak -->
+  <!-- Streak & Top Languages -->
   <a href="https://github.com/anduajulian">
-    <img src="https://streak-stats.demolab.com?user=anduajulian&theme=dark&hide_border=true" height="180" alt="GitHub Streak"/>
+    <img
+      src="https://streak-stats.demolab.com?user=anduajulian&theme=dark&hide_border=true"
+      height="160"
+      alt="GitHub Streak"
+    />
   </a>
+  <br /><br />
 
   <!-- CI Status -->
   <a href="https://github.com/anduajulian/leetcode-slayer/actions/workflows/ci.yml">
-    <img src="https://github.com/anduajulian/leetcode-slayer/actions/workflows/ci.yml/badge.svg" height="25" alt="CI Status" />
+    <img
+      src="https://github.com/anduajulian/leetcode-slayer/actions/workflows/ci.yml/badge.svg?branch=master"
+      alt="CI Status"
+    />
   </a>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/anduajulian/leetcode-slayer">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anduajulian&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages"/>
-  </a>
-
-  <!-- Slayer Badge -->
-  <img src="https://img.shields.io/badge/Slayer%20Mode-ON-red?style=for-the-badge&logo=github" alt="Slayer Mode"/>
+  <!-- Slayer Mode -->
+  <img
+    src="https://img.shields.io/badge/Slayer%20Mode-ON-red?style=for-the-badge&logo=github"
+    alt="Slayer Mode"
+  />
 
   <!-- Powered by LeetSync -->
-  <img src="https://img.shields.io/badge/Powered%20by-LeetSync-blue?style=for-the-badge&logo=leetcode" alt="Powered by LeetSync"/>
+  <img
+    src="https://img.shields.io/badge/Powered%20by-LeetSync-blue?style=for-the-badge&logo=leetcode"
+    alt="Powered by LeetSync"
+  />
 
-</p>
+</div>
 
 
 ---

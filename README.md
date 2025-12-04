@@ -8,17 +8,28 @@ Every solution here is synced automatically using **LeetSync**, making this repo
 ## 📊 Stats & Badges
 
 <p align="left">
-  <a href="https://github.com/anduajulian/leetcode-slayer/actions">
-    <img src="https://github.com/anduajulian/leetcode-slayer/workflows/CI/badge.svg" alt="CI Status" />
-  </a>
 
+  <!-- GitHub Streak -->
   <a href="https://github.com/anduajulian">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anduajulian&theme=default" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=anduajulian&theme=dark&hide_border=true" height="180" alt="GitHub Streak"/>
   </a>
 
-  <a href="https://github.com/anduajulian/leetcode-slayer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anduajulian&layout=compact" alt="Top Languages" />
+  <!-- CI Status -->
+  <a href="https://github.com/anduajulian/leetcode-slayer/actions/workflows/ci.yml">
+    <img src="https://github.com/anduajulian/leetcode-slayer/actions/workflows/ci.yml/badge.svg" height="25" alt="CI Status" />
   </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/anduajulian/leetcode-slayer">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anduajulian&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages"/>
+  </a>
+
+  <!-- Slayer Badge -->
+  <img src="https://img.shields.io/badge/Slayer%20Mode-ON-red?style=for-the-badge&logo=github" alt="Slayer Mode"/>
+
+  <!-- Powered by LeetSync -->
+  <img src="https://img.shields.io/badge/Powered%20by-LeetSync-blue?style=for-the-badge&logo=leetcode" alt="Powered by LeetSync"/>
+
 </p>
 
 ---
